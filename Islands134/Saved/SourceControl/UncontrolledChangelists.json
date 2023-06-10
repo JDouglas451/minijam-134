@@ -5,8 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/StartMap.umap",
-				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Maps/StartMap.umap"
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Maps/StartMap.umap",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Models/hexagon-tile.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/StartMap.umap"
 			]
 		}
 	]
