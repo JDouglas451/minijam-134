@@ -7,6 +7,22 @@
 			"files": [
 				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Maps/StartMap.umap",
 				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Models/hexagon-tile.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Shaders/Sand.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Models/hexTile.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Blueprints/bpHexGrid.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Blueprints/bpHexTile.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Blueprints/BP_CubeTile.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Blueprints/BP_HexGrid.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Blueprints/BP_Tile.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Blueprints/TerrainHex.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Blueprints/M_HexTile.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Blueprints/bpHexGridv2.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Blueprints/bpSquareGrid.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Blueprints/bpTileGrid.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Shaders/TestMaterial.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Shaders/TestMaterial2.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Shaders/DeleteThis.uasset",
+				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/Blueprints/bpHexagonGrid.uasset",
 				"C:/Users/jgjpd/OneDrive/Desktop/games/minijam-134/Islands134/Content/StartMap.umap"
 			]
 		}
